@@ -1,0 +1,28 @@
+{
+    "name": "NON-ADF-REGULATORY",
+    "id": "/subscriptions/2976a3ad-529e-4119-9af6-7f99e5bcec64/resourceGroups/non_prod_adf/providers/Microsoft.DataFactory/factories/non-adf-regulatory",
+    "type": "Microsoft.DataFactory/factories",
+    "properties": {
+        "provisioningState": "Succeeded",
+        "createTime": "2023-05-30T04:54:28.7586567Z",
+        "version": "2018-06-01",
+        "factoryStatistics": {
+            "totalResourceCount": 0,
+            "maxAllowedResourceCount": 0,
+            "factorySizeInGbUnits": 0,
+            "maxAllowedFactorySizeInGbUnits": 0
+        },
+        "publicNetworkAccess": "Disabled"
+    },
+    "eTag": "\"01001a25-0000-2000-0000-647581840000\"",
+    "location": "centralindia",
+    "identity": {
+        "type": "SystemAssigned",
+        "principalId": "c52c98a4-0d2c-4ede-bd3f-87f46ffe79f7",
+        "tenantId": "46d4eb5d-8290-43d3-bf6f-e6a48a2627ae"
+    },
+    "tags": {
+        "Yugesh Gadpal": "Non Prod  ADF Regulatory",
+        "ch": "9105"
+    }
+}
